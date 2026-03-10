@@ -3,8 +3,8 @@ export let orders = [
     id: 1,
     orderNumber: "ORD-2026-001",
     userId: 2,
-    userName: "John Doe",
-    userEmail: "buyer@test.com",
+    userName: "Confidence Ohireimen",
+    userEmail: "confidence@gmail.com",
     userPhone: "08098765432",
     deliveryAddress: "123 Lagos Street, Ikeja, Lagos",
     items: [
@@ -39,7 +39,7 @@ export let orders = [
     orderNumber: "ORD-2026-002",
     userId: 3,
     userName: "Sarah Johnson",
-    userEmail: "sarah@test.com",
+    userEmail: "sarah@gmail.com",
     userPhone: "08011112222",
     deliveryAddress: "45 Abuja Road, Garki, Abuja",
     items: [
@@ -65,10 +65,10 @@ export let orders = [
     id: 3,
     orderNumber: "ORD-2026-003",
     userId: 2,
-    userName: "John Doe",
-    userEmail: "buyer@test.com",
+    userName: "Mide Olawale",
+    userEmail: "mide@gmail.com",
     userPhone: "08098765432",
-    deliveryAddress: "123 Lagos Street, Ikeja, Lagos",
+    deliveryAddress: "126 Ilaro 1001, Ogun State",
     items: [
       {
         productId: 10,
@@ -101,7 +101,7 @@ export let orders = [
     orderNumber: "ORD-2026-004",
     userId: 3,
     userName: "Sarah Johnson",
-    userEmail: "sarah@test.com",
+    userEmail: "sarah@email.com",
     userPhone: "08011112222",
     deliveryAddress: "45 Abuja Road, Garki, Abuja",
     items: [
@@ -135,10 +135,10 @@ export let orders = [
     id: 5,
     orderNumber: "ORD-2026-005",
     userId: 2,
-    userName: "John Doe",
-    userEmail: "buyer@test.com",
+    userName: "Confidence Oracle",
+    userEmail: "oracle@email.com",
     userPhone: "08098765432",
-    deliveryAddress: "123 Lagos Street, Ikeja, Lagos",
+    deliveryAddress: "123 Surulere Street, Alagbado, Lagos State",
     items: [
       {
         productId: 24,
