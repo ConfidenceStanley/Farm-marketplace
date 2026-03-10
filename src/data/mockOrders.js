@@ -131,7 +131,7 @@ export let orders = [
     createdAt: "2026-03-13T08:45:00",
     updatedAt: "2026-03-13T08:45:00"
   },
-  {
+  { 
     id: 5,
     orderNumber: "ORD-2026-005",
     userId: 2,
