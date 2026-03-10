@@ -1,10 +1,10 @@
 export const users = [
   {
     id: 1,
-    email: "admin@farmmarket.com",
+    email: "admin@gmail.com",
     password: "admin123",
     firstName: "Admin",
-    lastName: "User",
+    lastName: "Admin",
     role: "admin",
     phone: "08012345678",
     avatar: null,
@@ -12,10 +12,10 @@ export const users = [
   },
   {
     id: 2,
-    email: "buyer@gmail.com",
-    password: "buyer123",
-    firstName: "John",
-    lastName: "Doe",
+    email: "confidence@gmail.com",
+    password: "confidence123",
+    firstName: "Confidence",
+    lastName: "Ohireimen",
     role: "buyer",
     phone: "08098765432",
     address: "123 Lagos Street, Ikeja, Lagos",
@@ -57,6 +57,30 @@ export const users = [
     address: "22 Ahmadu Bello Way, Kaduna",
     avatar: null,
     createdAt: "2026-02-15"
+  },
+  {
+    id: 6,
+    email: "mide@gmail.com",
+    password: "mide123",
+    firstName: "Ayomide",
+    lastName: "Olawale",
+    role: "buyer",
+    phone: "08098765432",
+    address: "126 Ilaro 1001, Ogun State",
+    avatar: null,
+    createdAt: "2026-01-11"
+  },
+  {
+    id: 7,
+    email: "oracle@gmail.com",
+    password: "oracle123",
+    firstName: "Confidence",
+    lastName: "Oracle",
+    role: "buyer",
+    phone: "08048765432",
+    address: "123 Surulere Street, Alagbado, Lagos STate",
+    avatar: null,
+    createdAt: "2026-02-13"
   }
 ];
 
