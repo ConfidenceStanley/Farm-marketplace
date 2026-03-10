@@ -98,8 +98,8 @@ const LoginPage = () => {
         {/* Demo Credentials Info */}
         <div className="bg-blue-50 border border-blue-200 text-blue-700 px-4 py-3 rounded-lg text-sm">
           <p className="font-medium mb-1">Demo Credentials:</p>
-          <p>Admin: admin@farmmarket.com / admin123</p>
-          <p>Buyer: buyer@test.com / buyer123</p>
+          <p>Admin: admin@gmail.com / admin123</p>
+          <p>Buyer: buyer@gmail.com / buyer123</p>
         </div>
 
         {/* Email Field */}

@@ -165,7 +165,7 @@ const RegisterPage = () => {
             label="First Name"
             type="text"
             name="firstName"
-            placeholder="John"
+            placeholder="Confidence"
             value={formData.firstName}
             onChange={handleChange}
             error={errors.firstName}
@@ -175,7 +175,7 @@ const RegisterPage = () => {
             label="Last Name"
             type="text"
             name="lastName"
-            placeholder="Doe"
+            placeholder="Oracle"
             value={formData.lastName}
             onChange={handleChange}
             error={errors.lastName}
@@ -188,7 +188,7 @@ const RegisterPage = () => {
           label="Email Address"
           type="email"
           name="email"
-          placeholder="john@example.com"
+          placeholder="oracle@gmail.com"
           value={formData.email}
           onChange={handleChange}
           error={errors.email}

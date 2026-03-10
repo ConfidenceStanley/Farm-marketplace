@@ -119,14 +119,14 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-3">
                 <FaPhone className="w-5 h-5 text-primary-500 flex-shrink-0" />
-                <a href="tel:+2348012345678" className="text-gray-400 hover:text-primary-500 text-sm">
-                  +234 801 234 5678
+                <a href="tel:+2349026061348" className="text-gray-400 hover:text-primary-500 text-sm">
+                  +234 902 606 1348
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <FaEnvelope className="w-5 h-5 text-primary-500 flex-shrink-0" />
-                <a href="mailto:info@farmmarket.com" className="text-gray-400 hover:text-primary-500 text-sm">
-                  info@farmmarket.com
+                <a href="mailto:farm@farmmarket.com" className="text-gray-400 hover:text-primary-500 text-sm">
+                  farm@farmmarket.com
                 </a>
               </li>
             </ul>
