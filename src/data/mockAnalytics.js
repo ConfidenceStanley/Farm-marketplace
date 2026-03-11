@@ -1,4 +1,3 @@
-// Generate mock analytics data for charts
 
 // Revenue data for the last 7 days
 export const getRevenueData = (days = 7) => {
