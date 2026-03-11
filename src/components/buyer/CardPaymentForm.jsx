@@ -134,7 +134,7 @@ const CardPaymentForm = ({ amount, onSubmit, isLoading }) => {
         label="Cardholder Name"
         type="text"
         name="name"
-        placeholder="JOHN DOE"
+        placeholder="CONFIDENCE OHIREIMEN"
         value={cardData.name}
         onChange={handleInputChange}
         onFocus={handleInputFocus}
